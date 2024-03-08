@@ -1,7 +1,2 @@
-# Desafio devquest: Tabela
-Primeiro projeto do curso devquest, usando html e css básico. 😎🚀
-
-[<img src="./Animação.gif" alt="gif da tela do projeto tabela">] 
-## Tecnologias utilizadas 
--HTML
--CSS
+# Teste criando um readme com o curso devquest 
+Apenas um teste aprendendo a criar um readme, também sendo um repositorio de resumos do curso ✌
